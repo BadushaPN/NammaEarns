@@ -51,7 +51,7 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/namma-earns.git
+   git clone https://github.com/BadushaPN/namma-earns.git
    cd namma-earns
    ```
 
